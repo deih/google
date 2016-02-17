@@ -1,0 +1,19 @@
+* { 
+	font-family: arial, sans-serif; 
+}
+
+.header {
+	float: right;
+}
+
+.header li {
+	display: inline;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+#google {
+	
+}
